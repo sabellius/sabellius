@@ -1,3 +1,5 @@
+<img width="256" height="384" alt="AI generated picture of myself" src="https://github.com/user-attachments/assets/7a59221c-a301-4ab4-9945-cc4c736d1d97" />
+
 ## Hi, I'm Saveliy 👋
 Full-stack developer building web applications with React, Express.js, and MongoDB. Currently working on a coffee truck search and review platform, while maintaining existing projects in my [portfolio](https://saveliyshiryaev.dev).
 
