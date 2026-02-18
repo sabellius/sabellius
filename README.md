@@ -1,10 +1,7 @@
 <img width="256" height="384" alt="AI generated picture of myself" src="https://github.com/user-attachments/assets/7a59221c-a301-4ab4-9945-cc4c736d1d97" />
 
 ## Hi, I'm Saveliy 👋
-Full-stack developer building web applications with React, Express.js, and MongoDB. Currently working on a coffee truck search and review platform, while maintaining existing projects in my <a href="https://saveliyshiryaev.dev" target="_blank" rel="noopener noreferrer">portfolio</a>.
-
-
-[portfolio](https://saveliyshiryaev.dev).
+Full-stack developer building web applications with React, Express.js, and MongoDB. Currently working on a coffee truck search and review platform, while maintaining existing projects in my [portfolio](https://saveliyshiryaev.dev).
 
 ## What I'm Into
 Development: Writing maintainable code with solid architecture. I care about understanding the reasoning behind technical decisions and implementing best practices.
